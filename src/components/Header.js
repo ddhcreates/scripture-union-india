@@ -17,11 +17,13 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <div className="relative">
-              <div className="w-10 h-10 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full flex items-center justify-center">
-                <Heart className="w-6 h-6 text-white" />
-              </div>
-              <Star className="w-4 h-4 text-yellow-400 absolute -top-1 -right-1 animate-pulse" />
-            </div>
+                <img 
+                    src="/logo.png" 
+                    alt="Scripture Union India Logo" 
+                    className="w-10 h-10 rounded-full object-cover"
+                />
+                <Star className="w-4 h-4 text-yellow-400 absolute -top-1 -right-1 animate-pulse" />
+                </div>
             <div>
               <h1 className="font-playful font-bold text-xl gradient-text">SU India</h1>
               <p className="text-xs text-gray-500 font-medium">Scripture Union</p>

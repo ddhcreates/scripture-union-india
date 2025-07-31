@@ -12,9 +12,11 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-3 mb-6">
               <div className="relative">
-                <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-pink-500 rounded-full flex items-center justify-center">
-                  <Heart className="w-7 h-7 text-white" />
-                </div>
+                <img 
+                    src="/logo.png" 
+                    alt="Scripture Union India Logo" 
+                    className="w-12 h-12 rounded-full object-cover"
+                />
                 <Star className="w-4 h-4 text-yellow-400 absolute -top-1 -right-1 animate-pulse" />
               </div>
               <div>
