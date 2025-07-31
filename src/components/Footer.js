@@ -20,7 +20,7 @@ const Footer = () => {
                 <Star className="w-4 h-4 text-yellow-400 absolute -top-1 -right-1 animate-pulse" />
               </div>
               <div>
-                <h3 className="font-playful font-bold text-2xl gradient-text">Scripture Union India</h3>
+                <h3 className="font-playful font-bold text-2xl gradient-text">Scripture Union India - English</h3>
                 <p className="text-purple-200 text-sm">Spreading God's Love Since 1867</p>
               </div>
             </div>
@@ -102,7 +102,7 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Mail className="w-4 h-4 text-purple-400" />
                 <div>
-                  <p className="text-sm text-gray-300">scriptureunionindia@gmail.com</p>
+                  <p className="text-sm text-gray-300">scriptureunionindiaenglish@gmail.com</p>
                   <p className="text-xs text-gray-400">We reply within 24 hours</p>
                 </div>
               </div>
@@ -138,7 +138,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-center md:text-left">
               <p className="text-gray-400 text-sm">
-                © {currentYear} Scripture Union India. All rights reserved.
+                © {currentYear} Scripture Union India - English. All rights reserved.
               </p>
               <p className="text-gray-500 text-xs mt-1">
                 Part of Scripture Union International family since 1867

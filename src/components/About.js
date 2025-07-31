@@ -9,7 +9,7 @@ const About = () => {
         <div className="text-center mb-16">
           <div className="inline-flex items-center space-x-2 bg-gradient-to-r from-blue-100 to-purple-100 rounded-full px-4 py-2 mb-6">
             <Heart className="w-4 h-4 text-blue-600" />
-            <span className="text-sm font-medium text-blue-800">About Scripture Union India</span>
+            <span className="text-sm font-medium text-blue-800">About Scripture Union India - English</span>
           </div>
           <h2 className="text-4xl md:text-5xl font-playful font-bold gradient-text mb-6">
             Our Amazing Mission
@@ -54,7 +54,7 @@ const About = () => {
         <div className="bg-gradient-to-r from-purple-500 to-pink-500 rounded-3xl p-8 md:p-12 text-white mb-16">
           <div className="text-center mb-10">
             <h3 className="text-3xl md:text-4xl font-playful font-bold mb-4">Our Core Values</h3>
-            <p className="text-purple-100 text-lg">What makes Scripture Union India special</p>
+            <p className="text-purple-100 text-lg">What makes Scripture Union India - English special</p>
           </div>
           
           <div className="grid md:grid-cols-3 gap-8">
@@ -95,7 +95,7 @@ const About = () => {
               Part of Something <span className="gradient-text">Bigger</span>
             </h3>
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
-              Scripture Union India is part of a global family operating in over 120 countries worldwide. 
+              Scripture Union India - English is part of a global family operating in over 120 countries worldwide. 
               Since 1867, we've been introducing children, young people, and families to Jesus Christ.
             </p>
             <div className="flex items-center space-x-6">

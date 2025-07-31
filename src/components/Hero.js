@@ -23,7 +23,7 @@ const Hero = () => {
           <div className="text-center lg:text-left">
             <div className="inline-flex items-center space-x-2 bg-gradient-to-r from-purple-100 to-pink-100 rounded-full px-4 py-2 mb-6">
               <Sparkles className="w-4 h-4 text-purple-600" />
-              <span className="text-sm font-medium text-purple-800">Welcome to Scripture Union India</span>
+              <span className="text-sm font-medium text-purple-800">Welcome to Scripture Union India - English</span>
             </div>
             
             <h1 className="text-4xl md:text-6xl font-playful font-bold leading-tight mb-6">

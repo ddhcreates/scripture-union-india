@@ -25,7 +25,7 @@ const Header = () => {
                 <Star className="w-4 h-4 text-yellow-400 absolute -top-1 -right-1 animate-pulse" />
                 </div>
             <div>
-              <h1 className="font-playful font-bold text-xl gradient-text">SU India</h1>
+              <h1 className="font-playful font-bold text-xl gradient-text">SU India - English</h1>
               <p className="text-xs text-gray-500 font-medium">Scripture Union</p>
             </div>
           </div>

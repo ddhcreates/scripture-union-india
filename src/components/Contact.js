@@ -42,13 +42,13 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      details: "scriptureunionindia@gmail.com",
+      details: "scriptureunionindiaenglish@gmail.com",
       description: "We reply within 24 hours"
     },
     {
       icon: MapPin,
       title: "Visit Us",
-      details: "Scripture Union India Office",
+      details: "Scripture Union India - English Office",
       description: "Chennai, Tamil Nadu"
     },
     {
@@ -273,7 +273,7 @@ const Contact = () => {
               <span>Call Now</span>
             </a>
             <a 
-              href="mailto:scriptureunionindia@gmail.com"
+              href="mailto:scriptureunionindiaenglish@gmail.com"
               className="border-2 border-white text-white px-8 py-4 rounded-full font-semibold hover:bg-white hover:text-purple-600 transition-all duration-300 hover-lift flex items-center justify-center space-x-2"
             >
               <Mail className="w-5 h-5" />
